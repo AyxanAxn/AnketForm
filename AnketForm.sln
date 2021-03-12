@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnketForm", "AnketForm\AnketForm.csproj", "{EA8DAD6D-21E3-4C7B-B525-37288B75958A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA8DAD6D-21E3-4C7B-B525-37288B75958A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA8DAD6D-21E3-4C7B-B525-37288B75958A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA8DAD6D-21E3-4C7B-B525-37288B75958A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA8DAD6D-21E3-4C7B-B525-37288B75958A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {767BFCDD-5B71-42A8-AE40-FE3509EB4BA5}
+	EndGlobalSection
+EndGlobal
