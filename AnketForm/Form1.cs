@@ -15,7 +15,8 @@ namespace AnketForm
     public partial class Form1 : Form
     {
         string name;
-        List<string> language = new List<string>();
+        
+       public List<string> language = new List<string>();
         public Form1()
         {
             InitializeComponent();
@@ -64,7 +65,7 @@ namespace AnketForm
             {
                 MessageBox.Show("Hey you must write your name first!!");
             }
-
+            
         }
 
         private void FemaleRdbtn_CheckedChanged(object sender, EventArgs e)
@@ -105,8 +106,6 @@ namespace AnketForm
             }
 
         }
-
-
         private void OtherRdbtn_CheckedChanged(object sender, EventArgs e)
         {
 
